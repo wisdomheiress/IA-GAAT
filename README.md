@@ -1,0 +1,1 @@
+Un agente que a partir de criterios pasados a travez de un archivo estructurado (yaml) sea capaz de buscar productos del tipo, caracteristicas, rango de precio y restricciones, generando una salida en forma de archivo (csv) si este archivo es proveeido trabajara sobre este y lo actualizara con la ultima informacion.
