@@ -1,0 +1,33 @@
+producto: Telefono Celular
+
+precio:
+  maximo: 900000 COP
+
+requerido:
+  ram: 8 GB
+  almacenamiento: 256 GB
+  estado: nuevo
+
+preferido:
+  tiendas:
+    - Falabella
+    - Mercado Libre
+    - Exito
+    - Alkosto
+  marcas: 
+    - Samsung
+    - Motorola
+  procesador: Snapdragon
+  conectividad:
+    5G: true
+    NFC: true
+    Jack de audio: true
+
+restricciones:
+  envio: 
+    ciudad: Bogota
+    tiempo: 
+      maximo: 5 dias
+
+resultados:
+  maximo: 20

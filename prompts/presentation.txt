@@ -1,0 +1,16 @@
+Una presentacion relacionada al uso de herramientas de IA para un grupo diverso con intereses en la cultura geek.
+
+El tono deberia ser desenfadado y sin profundizar demasiado en aspectos demasiado tecnicos dada la audiencia.
+
+Quiero empezar introduciendo con un poco de historia, de como la IA ya existia antes y nos rodeaba antes de los LLM y la IA generativa (algoritmos de recomendacion como en youtube, spotify y redes sociales en general, Akinator y algunos juegos que la implementaban como Alien: Isolation (2014) o Los Sims (2000), talvez algun otro ejemplo interesante que se me escape) enfatizando en como lA no es algo estrictamente nuevo.
+
+En la misma linea quiero seguir con los chatbots, como intentos "primitivos" de LLM como SimSimi o Cleverbot, destacando como carecian de contexto y a pesar de que en ocaciones "daban el pego" luego podian "corromperse" por su interaccion con los usuarios, aprovechando estos ejemplos para introducir los conceptos de Entrenamiento y Sesgos.
+
+Explica que los sesgos estan lejos de desaparecer, menciona las polemicas de Grok prefiriendo Elon sobre jugadoes profesionales de la NFL o sus comentarios promoviendo a Hitler como un modelo a seguir, otras como el "exceso de inclusion" de Gemini con escenarios historicos recreados con etnias erroneas y en general como perpetuan estereotipos.
+
+Los ultimos ejemplos que quiero introducir son los motores de Ajedrez (stockfish, alpha zero...) y Waze, estos en particular para introducir el concepto de la Heuristica en caso de falta de informacion y como a pesar de cuando se mide IA vs Humano, en estos escenarios con de sistemas cerrados de acciones simples, siempre "Gana" la IA, destacar que cuando se junta el Criterio (especializado) Humano + IA los resultados son mejores, siendo capaces de "Ganar" a la IA plana.
+
+Despues de esto quiero que tener unos placeholders para algunos ejemplos y usos practicos que agregare a posteriori.
+
+Mejora la escritura y añade esta cita https://academiadeia.es/la-anatomia-del-prompt-perfecto-el-marco-de-greg-brockman/
+La idea de la diapositiva es demostrar como un prompt simple y poco claro genera resultados mediocres, voy a agregar una diapositiva luego mostrando un contraejemplo utilizando la anatomia del prompt diescrta por Ben Hylak
